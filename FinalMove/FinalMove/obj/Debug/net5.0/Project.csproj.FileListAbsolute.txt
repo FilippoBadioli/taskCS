@@ -1,0 +1,16 @@
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\FinalMove\bin\Debug\net5.0\Project.exe
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\FinalMove\bin\Debug\net5.0\Project.deps.json
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\FinalMove\bin\Debug\net5.0\Project.runtimeconfig.json
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\FinalMove\bin\Debug\net5.0\Project.runtimeconfig.dev.json
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\FinalMove\bin\Debug\net5.0\Project.dll
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\FinalMove\bin\Debug\net5.0\ref\Project.dll
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\FinalMove\bin\Debug\net5.0\Project.pdb
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\FinalMove\obj\Debug\net5.0\Project.csproj.AssemblyReference.cache
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\FinalMove\obj\Debug\net5.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\FinalMove\obj\Debug\net5.0\Project.AssemblyInfoInputs.cache
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\FinalMove\obj\Debug\net5.0\Project.AssemblyInfo.cs
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\FinalMove\obj\Debug\net5.0\Project.csproj.CoreCompileInputs.cache
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\FinalMove\obj\Debug\net5.0\Project.dll
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\FinalMove\obj\Debug\net5.0\ref\Project.dll
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\FinalMove\obj\Debug\net5.0\Project.pdb
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\FinalMove\obj\Debug\net5.0\Project.genruntimeconfig.cache

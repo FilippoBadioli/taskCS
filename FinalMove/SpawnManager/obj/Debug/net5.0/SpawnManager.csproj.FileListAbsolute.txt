@@ -1,0 +1,16 @@
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\SpawnManager\bin\Debug\net5.0\SpawnManager.exe
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\SpawnManager\bin\Debug\net5.0\SpawnManager.deps.json
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\SpawnManager\bin\Debug\net5.0\SpawnManager.runtimeconfig.json
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\SpawnManager\bin\Debug\net5.0\SpawnManager.runtimeconfig.dev.json
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\SpawnManager\bin\Debug\net5.0\SpawnManager.dll
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\SpawnManager\bin\Debug\net5.0\ref\SpawnManager.dll
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\SpawnManager\bin\Debug\net5.0\SpawnManager.pdb
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\SpawnManager\obj\Debug\net5.0\SpawnManager.csproj.AssemblyReference.cache
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\SpawnManager\obj\Debug\net5.0\SpawnManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\SpawnManager\obj\Debug\net5.0\SpawnManager.AssemblyInfoInputs.cache
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\SpawnManager\obj\Debug\net5.0\SpawnManager.AssemblyInfo.cs
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\SpawnManager\obj\Debug\net5.0\SpawnManager.csproj.CoreCompileInputs.cache
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\SpawnManager\obj\Debug\net5.0\SpawnManager.dll
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\SpawnManager\obj\Debug\net5.0\ref\SpawnManager.dll
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\SpawnManager\obj\Debug\net5.0\SpawnManager.pdb
+C:\Users\Filo\OneDrive\Desktop\Uni\OOP\Progetto\C\FinalMove\SpawnManager\obj\Debug\net5.0\SpawnManager.genruntimeconfig.cache
