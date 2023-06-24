@@ -1,0 +1,16 @@
+C:\Users\Cesco\Documents\MySolution\Prova\Prova\bin\Debug\Prova.exe.config
+C:\Users\Cesco\Documents\MySolution\Prova\Prova\bin\Debug\Prova.exe
+C:\Users\Cesco\Documents\MySolution\Prova\Prova\bin\Debug\Prova.pdb
+C:\Users\Cesco\Documents\MySolution\Prova\Prova\obj\Debug\MyProject.csproj.AssemblyReference.cache
+C:\Users\Cesco\Documents\MySolution\Prova\Prova\obj\Debug\MyProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cesco\Documents\MySolution\Prova\Prova\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\Cesco\Documents\MySolution\Prova\Prova\obj\Debug\Prova.exe
+C:\Users\Cesco\Documents\MySolution\Prova\Prova\obj\Debug\Prova.pdb
+C:\Users\Cesco\Documents\MySolution\MyProject\MyProject\bin\Debug\Prova.exe.config
+C:\Users\Cesco\Documents\MySolution\MyProject\MyProject\bin\Debug\Prova.exe
+C:\Users\Cesco\Documents\MySolution\MyProject\MyProject\bin\Debug\Prova.pdb
+C:\Users\Cesco\Documents\MySolution\MyProject\MyProject\obj\Debug\MyProject.csproj.AssemblyReference.cache
+C:\Users\Cesco\Documents\MySolution\MyProject\MyProject\obj\Debug\MyProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cesco\Documents\MySolution\MyProject\MyProject\obj\Debug\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\Cesco\Documents\MySolution\MyProject\MyProject\obj\Debug\Prova.exe
+C:\Users\Cesco\Documents\MySolution\MyProject\MyProject\obj\Debug\Prova.pdb

@@ -1,0 +1,8 @@
+C:\Users\Cesco\Documents\MySolution\Prova\Prova\bin\Debug\Prova.exe.config
+C:\Users\Cesco\Documents\MySolution\Prova\Prova\bin\Debug\Prova.exe
+C:\Users\Cesco\Documents\MySolution\Prova\Prova\bin\Debug\Prova.pdb
+C:\Users\Cesco\Documents\MySolution\Prova\Prova\obj\Debug\Prova.csproj.AssemblyReference.cache
+C:\Users\Cesco\Documents\MySolution\Prova\Prova\obj\Debug\Prova.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cesco\Documents\MySolution\Prova\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+C:\Users\Cesco\Documents\MySolution\Prova\Prova\obj\Debug\Prova.exe
+C:\Users\Cesco\Documents\MySolution\Prova\Prova\obj\Debug\Prova.pdb
